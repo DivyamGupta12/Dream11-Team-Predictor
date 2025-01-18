@@ -12,7 +12,7 @@ By combining predictive analytics and user-centric design, the project addresses
 # Usage
 clone the repository
 ```bash
-git clone https://github.com/HemantKumar01/Dream11-Team-Predictor.git
+git clone https://github.com/DivyamGupta12/Dream11-Team-Predictor.git
 ```
 ### Using the Predictor
 head over to `src/UI/Product_UI` and follow instructions there to install and run the product_ui frontend and backend.
